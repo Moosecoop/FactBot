@@ -17,9 +17,9 @@ exports.run = (client, msg) => {
             name: client.user.username,
             icon_url: client.user.avatarURL
         },
-        title: 'Cat Fact',
+        title: 'Random Fact',
         fields: [{
-            name: 'Random Fact',
+            name: 'Random Cat Fact',
             value: fact
         }
         ],
