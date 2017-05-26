@@ -1,0 +1,23 @@
+{
+  "name": "factbot",
+  "version": "0.0.1",
+  "description": "FactBot gives random facts 'n stuff",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moosecoop/FactBot.git"
+  },
+  "author": "moosecoop <admin@moosecoop.com> (http://moosecoop.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moosecoop/FactBot/issues"
+  },
+  "homepage": "https://github.com/Moosecoop/FactBot#readme",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "komada": "^0.19.2"
+  }
+}
